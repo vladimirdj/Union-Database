@@ -20,7 +20,12 @@ Move files
 Edit files
 
 More information:
+
+Official website
 1. http://sensationenergy.com/
 
+Documentation
 2. http://sensationenergy.com/tutorial/u_d/index.php
 
+Example
+3. http://sensationenergy.com/tutorial/funkcija/union_database/index.php
