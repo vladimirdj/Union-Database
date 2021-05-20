@@ -1,0 +1,11 @@
+[
+    {
+        "user_id": 1749,
+        "first_name": "Vlada",
+        "last_name": "Vlada",
+        "korisnik": "admin",
+        "email": "vlada!@mail.com",
+        "password": "admin",
+        "role": "admin"
+    }
+]
