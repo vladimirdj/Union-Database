@@ -1,4 +1,4 @@
-Union Database is "File Flat" database which is based on PHP nad JSON.
+Union Database is "File Flat" database which is based on PHP and JSON.
 
 Union Database allows the following:
 REST API with JSON
